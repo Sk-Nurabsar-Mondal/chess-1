@@ -1,0 +1,15 @@
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 0px;
+}
+.first{
+    height: 100px;
+
+    background-color: red;
+}
+.sec{
+    height: 100px;
+    
+    background-color: green;
+}
